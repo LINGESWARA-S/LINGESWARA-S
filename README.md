@@ -116,7 +116,7 @@ A modern **online travel booking platform** designed to simplify bus and tour bo
 <h2>🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LINGESWARA-S" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LINGESWARA-S/&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
